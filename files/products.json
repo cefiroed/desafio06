@@ -1,0 +1,20 @@
+[
+  {
+    "title": "casa",
+    "price": 2000000,
+    "thumbnail": "www.tuinmueble.com",
+    "id": 1
+  },
+  {
+    "title": "apartamento",
+    "price": 3000000,
+    "thumbnail": "www.mercadolibre.com",
+    "id": 2
+  },
+  {
+    "title": "carro",
+    "price": 100000,
+    "thumbnail": "www.tucarro.com",
+    "id": 3
+  }
+]
